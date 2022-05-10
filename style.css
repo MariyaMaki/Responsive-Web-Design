@@ -1,3 +1,22 @@
 body {
     background-color: blue;
 }
+
+.container {
+    display: flex;
+    text-align: justify;
+}
+
+/*#medium, #small {
+    display: none;
+}*/
+
+h4 {
+    font-size: large;
+    padding: 30px 30px;
+}
+
+p {
+    font-size: large;
+    padding: 30px 30px;
+}
